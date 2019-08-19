@@ -1,11 +1,11 @@
 # Site settings
-author: bustling-attribute-7217
-title: 
+author: Anubhav Jain
+title: Manipulating the Stats with Anu
 header-img: img/home-bg.png
 email: ajain1017@gmail.com
-copyright_name: bustling-attribute-7217
+copyright_name: Anubhav Jain
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A whimsical take on data science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ajain1017
