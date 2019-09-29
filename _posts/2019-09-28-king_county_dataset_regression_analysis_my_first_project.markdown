@@ -12,18 +12,18 @@ In this project, I used King County Housing Data with the goal of creating a pri
 
 My process was derived from the Data Science Life Cycle including:
 
-⇒	Business Understanding
+#### Business Understanding
 * Clear understanding of problem domain and questions needed to be answered
-⇒	Data Cleaning
+#### Data Cleaning
 * Cleaning and wrangling data
 * Checklist: Up-to-date data, missing values, duplicates, outliers, valid labels
-⇒	Data Exploration
+#### Data Exploration
 * Basic statistical findings: highlight patterns, relations, variance and bias of data
-⇒	Feature Engineering
+#### Feature Engineering
 * The process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve
-⇒	Predictive Modelling
+#### Predictive Modelling
 * Use data analysis methods to answer question
-⇒	Data Visualization
+#### Data Visualization
 * Summarize and present the findings
 
 With Business Understanding, I thought of three aspects that would be important to me when trying to sell my house. The first was, when during the year should I be selling my house. I therefore explored on what day and in which season were the houses sold the most. I found that the Spring and during the beginnig of the week was the best time to sell. To my thinking, most people have the most time during the Summer to move in, and also look for places to be during their downtime in good weather so it made most sense to me that Spring would be the highest selling time followed right behind by the Summer. What was confusing to me was that houses were bought on Tuesday the most followed by the other two days around it, Monday and Wednesday. I originally thought that the weekend is when most people have the most time, but then thinking over it again, realtors and bankers are in office Mondays through Friday, so maybe thats when the sales get processed the most.
