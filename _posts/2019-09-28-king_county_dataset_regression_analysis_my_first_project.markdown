@@ -14,15 +14,20 @@ My process was derived from the Data Science Life Cycle including:
 
 #### Business Understanding
 * Clear understanding of problem domain and questions needed to be answered
+
 #### Data Cleaning
 * Cleaning and wrangling data
 * Checklist: Up-to-date data, missing values, duplicates, outliers, valid labels
+
 #### Data Exploration
 * Basic statistical findings: highlight patterns, relations, variance and bias of data
+
 #### Feature Engineering
 * The process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve
+
 #### Predictive Modelling
 * Use data analysis methods to answer question
+
 #### Data Visualization
 * Summarize and present the findings
 
