@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Dealing with Overfitting, Underfitting your model"
-date:       2019-10-03 20:45:09 +0000
+date:       2019-10-03 16:45:10 -0400
 permalink:  dealing_with_overfitting_underfitting_your_model
 ---
 
@@ -23,3 +23,5 @@ Now, the opposite of underfitting, would be overfitting the model. Overfitting, 
 To overcome the problems associated with underfitting and overfitting a model can be solved through examining a train-test split of your data. By splitting your data, we may control over-fitting and allow a higher degree of generalizability. You begin with cleaning and feature engineering your data, split the data, model using your trained data and apply the model to test and find out errors. To figure out when to use a train-test split, we may look at the image below.
 
 ![](https://image.slidesharecdn.com/mlregression-splittingdatasets-170914113926/95/machine-learning-splitting-datasets-3-638.jpg?cb=1505389251)
+
+-Anu
