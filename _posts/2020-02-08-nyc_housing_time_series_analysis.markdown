@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "NYC Housing Time Series Analysis"
-date:       2020-02-09 00:45:17 +0000
+date:       2020-02-08 19:45:18 -0500
 permalink:  nyc_housing_time_series_analysis
 ---
 
@@ -99,6 +99,7 @@ Five Best Zip Codes for a 5-year Investment:
 
 In conclusion, I found that Richmond County of Staten Island, Flushing, Queens, and the Bronx showed the most reliable 2-year and 5-year investment choices in NYC. Considering that our variability and RMSE are much better for the 2-year investment, I would suggest looking for a shorter investment period than 5-years.
 
+-Anu
 
 
 
