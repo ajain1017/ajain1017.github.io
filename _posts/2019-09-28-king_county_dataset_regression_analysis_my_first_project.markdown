@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "King County DataSet Regression Analysis: My First Project"
+title:      "King County Dataset Regression Analysis: My First Project"
 date:       2019-09-28 20:11:09 -0400
 permalink:  king_county_dataset_regression_analysis_my_first_project
 ---
